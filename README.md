@@ -236,4 +236,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built with ❤️ for the future of learning**
+**Built with ❤️ by **Derril Filemon** for the future of learning**
